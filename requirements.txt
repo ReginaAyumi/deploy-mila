@@ -1,0 +1,8 @@
+flask
+transformers
+torch
+pandas
+json
+random
+nltk
+datasets
